@@ -5,6 +5,10 @@
 
 - 📫 How to reach me **knagarjuna137@gamil.com**
 
+<img align="right" alt="Coding" width="400" src= "https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kaja-nagarjuna-804847107/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaja-nagarjuna-804847107/" height="30" width="40" /></a>
@@ -23,4 +27,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=knagarjuna137&show_icons=true&locale=en" alt="knagarjuna137" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=knagarjuna137&" alt="knagarjuna137" /></p>
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/jaiswaladi246/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
+
 
