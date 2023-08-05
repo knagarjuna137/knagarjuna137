@@ -30,7 +30,5 @@
 
 
 
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/knagarjuna137/knagarjuna137/blob/output/github-contribution-grid-snake.svg)
 
 
